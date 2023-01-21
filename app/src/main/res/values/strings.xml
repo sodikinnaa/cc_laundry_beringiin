@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CC_Laundry</string>
+
+    <string-array name="spn_pilihLayanan">
+        <item>Pilih Layanan</item>
+        <item>Cuci Saja</item>
+        <item>Cuci Strika</item>
+        <item>Strika Saja</item>
+    </string-array>
+
+
+</resources>
